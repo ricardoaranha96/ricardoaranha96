@@ -1,6 +1,8 @@
 # Hi 👋
 
-I'm Ricardo Aranha, a full-stack developer from Brazil </br>
+I'm Ricardo Aranha, a full-stack developer from Brazil. </br>
+I have worked in many systems and institutional websites, taking responsibility for designing, managing and developing. <br>
+Feel free to contact me if you want to transform your ideas in a real project
 
 # 💻 Tech Stack
 
@@ -45,10 +47,7 @@ I'm Ricardo Aranha, a full-stack developer from Brazil </br>
 
 # 🌐 Socials:
 
-- 📫 How to reach me **ricardoaranha96@gmail.com**
-- Linkedin **https://linkedin.com/in/ricardo-aranha-32391912a**
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardoaranha96@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-aranha-32391912a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardoaranha96@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-aranha-32391912a)
 
 # Stats
 
